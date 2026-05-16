@@ -1,0 +1,29 @@
+{
+    "_name": "Dark Theme — Victoria Verba default",
+
+    "app_bg":       "#0a1209",
+    "panel_bg":     "#0f1a14",
+    "divider":      "#1a3020",
+
+    "gold":         "#E6BC00",
+    "gold_dim":     "#7a5e00",
+
+    "text_dim":     "#3a6045",
+    "text_mid":     "#7aaa85",
+    "text_hi":      "#dff5e3",
+
+    "gov_color":    "#4ade80",
+    "opp_color":    "#f87171",
+
+    "card_bg":      "#0f1a14",
+    "card_bg_hover":"#141f18",
+    "card_border_idle": "#1e3028",
+
+    "dot_idle":     "#2a4030",
+    "dot_run":      "#4ade80",
+    "border_run":   "#4ade80",
+    "border_over":  "#facc15",
+
+    "time_color":   "#ffffff",
+    "time_over":    "#E6BC00"
+}

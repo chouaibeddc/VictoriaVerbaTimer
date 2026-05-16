@@ -1,0 +1,43 @@
+{
+    "_comment": "Victoria Verba Timer — Configuration File",
+    "_comment_keys": "Use single characters as key values. Keys are case-insensitive.",
+    "_comment_times": "Time limits are in MM:SS format.",
+    "_comment_theme": "Set 'theme' to the filename of any theme JSON in the same folder.",
+
+    "app": {
+        "title":    "Victoria Verba Timer V1.0",
+        "subtitle": "3rd Edition  ·  Official Debate Timer  ·  Ensam Express",
+        "version":  "1.0",
+        "fullscreen": true
+    },
+
+    "theme": "theme_dark.json",
+
+    "limits": {
+        "speech":     "05:00",
+        "rep_speech": "02:00",
+        "poi":        "00:15",
+        "tbpoi":      "00:20",
+        "apoi":       "00:30"
+    },
+
+    "keys": {
+        "Gov1":   "A",
+        "Gov2":   "Z",
+        "Gov3":   "E",
+        "GovRep": "R",
+        "Opp1":   "Q",
+        "Opp2":   "S",
+        "Opp3":   "D",
+        "OppRep": "F",
+        "POI":    "U",
+        "TBPOI":  "J",
+        "APOI":   "N"
+    },
+
+    "hotkeys": {
+        "reset_all":         "Control-x",
+        "quit":              "Control-F4",
+        "toggle_fullscreen": "Escape"
+    }
+}

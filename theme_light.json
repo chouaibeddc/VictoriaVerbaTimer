@@ -1,0 +1,29 @@
+{
+    "_name": "Light Theme — Victoria Verba clear edition",
+
+    "app_bg":       "#f0f4f1",
+    "panel_bg":     "#ffffff",
+    "divider":      "#d0ddd3",
+
+    "gold":         "#b08800",
+    "gold_dim":     "#c8a000",
+
+    "text_dim":     "#8aaa90",
+    "text_mid":     "#4a7a5a",
+    "text_hi":      "#1a3020",
+
+    "gov_color":    "#1a7a3a",
+    "opp_color":    "#c0392b",
+
+    "card_bg":      "#ffffff",
+    "card_bg_hover":"#f4faf6",
+    "card_border_idle": "#c8ddd0",
+
+    "dot_idle":     "#c0d8c8",
+    "dot_run":      "#1a9a4a",
+    "border_run":   "#1a9a4a",
+    "border_over":  "#e67e00",
+
+    "time_color":   "#1a2e20",
+    "time_over":    "#c05000"
+}
